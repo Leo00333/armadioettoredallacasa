@@ -1,0 +1,13 @@
+#rett{
+    width: 1px;
+    height: 720px;
+    background-color: white;
+    position: absolute;
+    top: 140px;
+    left: 1100px;
+}
+
+.leo{
+    color: red;
+}
+
